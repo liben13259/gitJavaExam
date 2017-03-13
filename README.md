@@ -1,1 +1,1 @@
-# gitJavaExam
+mvn jetty:run
